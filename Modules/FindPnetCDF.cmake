@@ -1,6 +1,7 @@
 # - Try to find PNETCDF
 # source: https://ftp.space.dtu.dk/pub/Ioana/pism0.6.1-10/CMake/FindPNetCDF.cmake
 # license: GPL v3 (https://ftp.space.dtu.dk/pub/Ioana/pism0.6.1-10/COPYING)
+# modifications: updated for UFS Weather Model
 #
 # - Find PNetCDF
 # Find the native PNetCDF includes and library
